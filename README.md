@@ -1,17 +1,17 @@
 # Blinkit-PowerBI-Dashboard
  A dynamic analysis of Blinkit’s data using Power BI, transforming raw information into powerful insights.
 
- BLINKIT_ANALYSIS
+# BLINKIT_ANALYSIS:
 
 Welcome to the Blinkit Analysis Project! This initiative dives deep into Blinkit listings, employing advanced data analysis and visualization techniques to unveil valuable insights. Harnessing the power of Power BI and various robust libraries, the project meticulously explores and dissects datasets to uncover significant trends and patterns within the accommodation sector.
 
 ![image](https://github.com/user-attachments/assets/c08d034f-3198-4ed4-b149-5182d4c7d18c)
 
-PROJECT OVERVIEW
+# PROJECT OVERVIEW:
 
 The Blinkit Analysis Project delves into Blinkit listings data to reveal key trends and patterns, such as price distribution, grocery types, and geographical variations. Implemented using Excel and powered by Power BI, this project showcases comprehensive data analysis and vivid visualizations to drive impactful insights within the accommodation sector.
 
-FEATURES:
+# FEATURES:
 
 Interactive Visualizations: Engage with data through dynamic charts and maps.
 Geospatial Analysis: Visualize Blinkit listings on maps with detailed price distributions.
