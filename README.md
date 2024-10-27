@@ -13,11 +13,11 @@ The Blinkit Analysis Project delves into Blinkit listings data to reveal key tre
 
 ## FEATURES:
 
-Interactive Visualizations: Engage with data through dynamic charts and maps.
-Geospatial Analysis: Visualize Blinkit listings on maps with detailed price distributions.
-Grocery Type Analysis: Gain insights into the distribution of various grocery types.
-Price Analysis: Examine price trends and identify any outliers.
-Neighborhood Insights: Discover top neighborhoods based on reviews and listing data.
+- Interactive Visualizations: Engage with data through dynamic charts and maps.
+- Geospatial Analysis: Visualize Blinkit listings on maps with detailed price distributions.
+- Grocery Type Analysis: Gain insights into the distribution of various grocery types.
+- Price Analysis: Examine price trends and identify any outliers.
+- Neighborhood Insights: Discover top neighborhoods based on reviews and listing data.
 
 Feel free to connect with me via GitHub or email at manodinesh261194@outlook.com. You can also find me on LinkedIn: Manojkumar - Data Analyst.
 
