@@ -20,5 +20,4 @@ The Blinkit Analysis Project delves into Blinkit listings data to reveal key tre
 - Neighborhood Insights: Discover top neighborhoods based on reviews and listing data.
 
 ## CONTACT:
-Feel free to connect with me email at manodinesh261194@outlook.com. 
-You can also find me on LinkedIn: https://www.linkedin.com/in/manojkumar-dataanalyst/
+Feel free to connect with me email at manodinesh261194@outlook.com. & LinkedIn: https://www.linkedin.com/in/manojkumar-dataanalyst/
