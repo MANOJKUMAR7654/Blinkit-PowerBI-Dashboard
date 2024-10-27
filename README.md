@@ -19,5 +19,5 @@ The Blinkit Analysis Project delves into Blinkit listings data to reveal key tre
 - Price Analysis: Examine price trends and identify any outliers.
 - Neighborhood Insights: Discover top neighborhoods based on reviews and listing data.
 
-Feel free to connect with me via GitHub or email at manodinesh261194@outlook.com. You can also find me on LinkedIn: Manojkumar - Data Analyst.
-
+## CONTACT:
+Feel free to connect with me email at manodinesh261194@outlook.com. You can also find me on LinkedIn: https://www.linkedin.com/in/manojkumar-dataanalyst/
