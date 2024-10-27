@@ -1,2 +1,2 @@
 # Blinkit-PowerBI-Dashboard
-A comprehensive analysis of Blinkit's data using Power BI to derive actionable insights.
+: A dynamic analysis of Blinkit’s data using Power BI, transforming raw information into powerful insights.
